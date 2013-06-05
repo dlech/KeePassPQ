@@ -1,0 +1,4 @@
+*.py           text
+*.ui           text
+*.e4p          eol=lf
+*.qrc          eol=lf
